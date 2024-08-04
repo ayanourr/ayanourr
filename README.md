@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aya</h1>
 <h3 align="center">A passionate Software Engineering</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayanourr" alt="ayanourr" /></a> </p>
 
-- 🔭 I’m currently working on **building an e-commerce web using Ai**
+- 🔭 I’m currently working on **building an AI-powered e-commerce website**
 
 - 🌱 I’m currently learning **ML with TensorFlow**
 
