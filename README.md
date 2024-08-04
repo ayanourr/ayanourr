@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aya</h1>
 <h3 align="center">A passionate Software Engineering</h3>
 
-
 - 🔭 I’m currently working on **building an AI-powered e-commerce website**
 
 - 🌱 I’m currently learning **ML with TensorFlow**
@@ -21,4 +20,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayanourr&show_icons=true&locale=en&layout=compact" alt="ayanourr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanourr&" alt="ayanourr" /></p>
-
