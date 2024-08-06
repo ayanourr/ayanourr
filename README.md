@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **atamimiayah@gmail.com**
 
-- 📄 Know about my experiences [here]([url](https://drive.google.com/file/d/1WQn6dhr-UAiwyryM-7KE9bcQfm9eFZv1/view?usp=drive_link](https://drive.google.com/file/d/1WQn6dhr-UAiwyryM-7KE9bcQfm9eFZv1/view?usp=drive_link))
+- 📄 Know about my experiences [here]((https://drive.google.com/file/d/1WQn6dhr-UAiwyryM-7KE9bcQfm9eFZv1/view?usp=drive_link](https://drive.google.com/file/d/1WQn6dhr-UAiwyryM-7KE9bcQfm9eFZv1/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
