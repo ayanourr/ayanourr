@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aya</h1>
 <h3 align="center">"A passionate Software Engineer"</h3>
 
-- 🔭 I’m currently working on **building an AI-powered e-commerce website**
-
 - 🌱 I’m currently learning **ML with TensorFlow**
 
 - 📫 How to reach me **atamimiayah@gmail.com**
